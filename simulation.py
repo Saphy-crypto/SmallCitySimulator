@@ -1133,9 +1133,9 @@ def main():
     print("  L - Agent browser")
     print("  H - Help menu")
     print("  Click on an agent to view details")
-    print("\n🚀 TIP: Use speed 1000x+ to quickly see generations develop!")
-    print("🔥 EXTREME: Press '0' for 50000x speed - watch decades pass!")
-    print("💥 MEGA-INSANE: Press 'Q/W/E' for 1M/10M/100M x speed - watch centuries fly by!")
+    print("\nTIP: Use speed 1000x+ to quickly see generations develop!")
+    print("EXTREME: Press '0' for 50000x speed  watch decades pass!")
+    print("MEGA INSANE: Press 'Q/W/E' for 1M/10M/100M x speed - watch centuries fly by!")
     
     sim = CitySimulation(city)
     sim.run()
